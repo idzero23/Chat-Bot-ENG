@@ -17,9 +17,9 @@ A self Telegram bot you can talk to (Hosted on Heroku)
 
 
 
-## Deploy to Heroku
+## Deploy to Heroku (The Easy Way)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idzero23/Chat-Bot-ENG
+<p><a href="https://heroku.com/deploy?template=https://github.com/idzero23/Chat-Bot-ENG/tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ## Credits
 
