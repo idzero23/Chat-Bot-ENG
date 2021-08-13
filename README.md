@@ -16,9 +16,11 @@ A self Telegram bot you can talk to (Hosted on Heroku)
 [![Bot Support](https://img.shields.io/badge/Radio%20Player%20V3-Support%20Group-blue)](https://t.me/idzero_gr)
 
 
-This is also the source code of the bot which is being used for playing
-Radio in [IDZEROID](https://t.me/idzeroobot) Channel & Music in [IDZEROID](https://t.me/idzero_gr) Group.
 
-##Credits
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idzero23/Chat-Bot-ENG
+
+## Credits
 
 - [Me](https://github.com/idzeroobot) [Dev]
