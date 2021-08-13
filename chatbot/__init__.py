@@ -22,7 +22,7 @@ config.read(config_file)
 
 # Extra details
 __version__ = "1.1"
-__author__ = "pokurt"
+__author__ = "idzeroid"
 
 # Global Variables
 CMD_HELP = {}
