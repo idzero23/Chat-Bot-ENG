@@ -13,7 +13,7 @@ A self Telegram bot you can talk to (Hosted on Heroku)
 ![GitHub repo size](https://img.shields.io/github/repo-size/idzero23/Chat-Bot-ENG?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/idzero23/Chat-Bot-ENG)
 ![GitHub](https://img.shields.io/github/license/idzero23/Chat-bot-ENG)
-[![Bot Support](https://img.shields.io/badge/Radio%20Player%20V3-Support%20Group-blue)](https://t.me/idzero_gr)
+[![Bot Support](https://img.shields.io/badge/ARTEZID%20IDZEROID%20Support%20Group-blue)](https://t.me/idzero_gr)
 
 
 
