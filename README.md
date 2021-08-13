@@ -2,7 +2,7 @@
 A self Telegram bot you can talk to (Hosted on Heroku)
 
 # Telegram chatbot
-![GitHub Repo stars](https://img.shields.io/github/stars/idzero23/Chat-Bot-ENG?# Telegram chatbot
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/idzero23/Chat-Bot-ENG?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/idzero23/Chat-Bot-ENG?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/idzero23/Chat-Bot-ENG)
